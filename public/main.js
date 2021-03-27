@@ -1,3 +1,5 @@
+// codeing with house gardner
+
 var thumbUp = document.getElementsByClassName("fa-thumbs-up");
 var trash = document.getElementsByClassName("fa-trash");
 var thumbDown = document.getElementsByClassName("fa-thumbs-down")
